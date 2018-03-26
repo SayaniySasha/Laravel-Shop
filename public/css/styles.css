@@ -1,0 +1,10 @@
+body {
+    height: 100vh;
+  }
+  
+  @media (min-width: 992px) {
+    body {
+      /* padding-top: 56px; */
+    }
+  }
+  
